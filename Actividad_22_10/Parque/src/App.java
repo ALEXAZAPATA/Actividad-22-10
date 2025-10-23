@@ -35,33 +35,40 @@ do{
 
 
  case 4:
-    System.out.println();
+    Billeta1.setFestivo();
+    System.out.println("el dia festivo ha cambiado");
         break;
 
 
 
 }
 
+case 4:
 
+    System.out.println("saliendo");
+        break;
 
 
 
 }
 
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
+}while(opcion !=5);
     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
 
 
