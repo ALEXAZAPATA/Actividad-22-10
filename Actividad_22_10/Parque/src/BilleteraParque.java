@@ -9,10 +9,10 @@ public BilleteraParque(int tickets, boolean festivo){
 
 
 }
-public BilleteraPrque(){
+public BilleteraParque(){
     return this.tickets = 0;
 }
-public BilleteraPrque(int tickets){
+public BilleteraParque(int tickets){
     return this.tickets = tickets;
 }
 public int getTickets(){
@@ -60,3 +60,4 @@ public String toString(){
 }
 
 }
+
